@@ -24,6 +24,27 @@ We need a system to store this data, and this system is called a **Database.**
 
 And the language used to talk to that database is: _SQL._
 
+## What is a Database?
+A database is:
+_A system that stores structured data in tables._
+
+Think of it like, very powerful Excel sheets, but optimized for:
+- Billions of rows
+- Fast searching
+- Secure storage
+- Multi-user access
+
+## What is Structured Data?
+Structured data is:
+_Data that is orgaized in a fixed format - usually rows and columns._
+It follows rules:
+
+- Every row has the same type of information.
+- Every column has a defined meaning.
+
+Think of it 
+
+
 
 
 
