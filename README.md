@@ -20,6 +20,11 @@ Now Amazon wants to answer questions like:
 As of early 2026, Amazon has 150 Million active customers in India.
 But the maximum number of rows Excel can store is 1,048,576 rows. So, technically, all this data cannot be stored in a Excel file.
 
+We need a system to store this data, and this system is called a **Database.**
+
+And the language used to talk to that database is: _SQL._
+
+
 
 
 
