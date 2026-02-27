@@ -50,7 +50,22 @@ For example,
 --------------------------------------------------------------------
 |2          |  102          |  25     |  2024-01-02                 |
 ---------------------------------------------------------------------
+Here,
+- order_id is always a number
+- customer_id is always a number
+- price is always a number
+- order_date is always a date
 
+Rules:
+- Same columns for every row
+- Same datatype per column
+- Clean structure
+- Predictable format
+
+*Why it's called "Structured"*
+
+Because it has:
+- 
 
 
 
