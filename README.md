@@ -62,10 +62,34 @@ Rules:
 - Clean structure
 - Predictable format
 
-*Why it's called "Structured"*
-
+##### Why it is called "Structured"
 Because it has:
-- 
+
+- Defined schema (design)
+- Fixed columns
+- Consistent format
+- Organized layout
+The database knows exactly:
+"What type of data belongs where."
+
+#### What is Unstructured Date?
+
+Unstructured data does not follow fixed rows or columns.
+It has NO strict format.
+For example:
+
+In a Whatsapp chat, user could send or receive text, images, videos, emojis, etc.
+
+Here, there are no fixed columns, no defined data types, no consistent format.
+
+SQL is strongest with structured data.
+For unstructured data, we use:
+
+- text processing
+- NLP
+- AI Models
+
+
 
 
 
