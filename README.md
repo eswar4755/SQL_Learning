@@ -101,8 +101,36 @@ Language --> a way to communicate
 So SQL is:
 _A language to ask questions from structured data._
 
+#### SELECT
+Select is used to retrieve data from a table.
 
+**Basic Syntax:**
+_SELECT column_name
+FROM table_name_
 
+**Important**
+Using _SELECT *_ is fine for learning.
+but in real systems:
+
+- it is inefficient
+- It may pull unnecessary data.
+- It increases processing time
+Select only required columns.
+
+### WHERE
+Where filters the data.
+
+**Why WHERE Exists**
+Imagine SALES_DATA has 10 millions rows.
+You don't want all rows.
+You want:
+
+- order from customer 101
+- Orders in January
+- Order where price > 500
+  This is filtering.
+
+  
 
 
 
