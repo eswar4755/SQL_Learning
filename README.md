@@ -89,6 +89,18 @@ For unstructured data, we use:
 - NLP
 - AI Models
 
+### What is SQL
+
+SQL stands for:
+_structured Query Language_
+
+Structured --> works on structured data
+Query --> means question
+Language --> a way to communicate
+
+So SQL is:
+_A language to ask questions from structured data._
+
 
 
 
