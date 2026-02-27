@@ -130,7 +130,41 @@ You want:
 - Order where price > 500
   This is filtering.
 
-  
+  ### GROUP BY
+  To answer How much did each customer spend?
+
+  We must:
+  - combine rows of same customer
+  - Add their total spending
+ 
+  **Important Rule**
+  If you use GROUP BY:
+  Every selected column must either
+  - Be in GROUP BY
+    OR
+  - Be inside an aggregate function
+ Otherwise --> SQL error.
+
+### HAVING
+WHERE filters rows before grouping.
+HAVING filters groups after grouping.
+
+
+### ORDER BY
+ORDER BY controls how results are arranged.
+
+### Execution ORDER
+SELECT
+FROM
+WHERE
+GROUP BY
+HAVING
+ORDER BY
+
+### LIMIT
+LIMIT restricts the number of rows returned.
+
+
 
 
 
